@@ -1,0 +1,10 @@
+Package: iotester
+Version: 
+Description: Input/output tester for the RetroGame
+Section: emus
+Priority: optional
+Maintainer: pingflood
+Architecture: mipsel
+Homepage: https://github.com/pingflood/iotester
+Depends:
+Source: https://github.com/pingflood/iotester
